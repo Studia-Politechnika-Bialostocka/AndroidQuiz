@@ -13,4 +13,6 @@
 
     <string name="correct_answer">correct_answer 🎉</string>
     <string name="incorrect_answer">incorrect_answer ❌</string>
+
+    <string name="answer_was_shown">Odpowiedź została już wyświetlona</string>
 </resources>
