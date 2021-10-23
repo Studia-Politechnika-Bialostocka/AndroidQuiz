@@ -12,7 +12,7 @@
 
     <TextView
         android:id="@+id/question_text_view"
-        android:layout_width="277dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="30dp"
         android:paddingStart="30dp"
