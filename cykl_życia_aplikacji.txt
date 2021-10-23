@@ -1,0 +1,32 @@
+Po pierwszym uruchomieniu aplikacji
+2021-10-23 12:56:20.712 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onCreate | currentIndex: 0
+2021-10-23 12:56:20.798 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-10-23 12:56:20.800 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po wciśnięciu przycisku Cofnij
+2021-10-23 12:56:40.790 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onPause | currentIndex: 0
+2021-10-23 12:56:41.635 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onStop | currentIndex: 0
+2021-10-23 12:56:41.640 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onDestroy | currentIndex: 0
+
+Po ponownym uruchomieniu aplikacji
+2021-10-23 12:57:31.902 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onCreate | currentIndex: 0
+2021-10-23 12:57:31.977 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-10-23 12:57:31.978 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po wciśnięciu przycisku ekranu głównego Home
+2021-10-23 12:57:51.746 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onPause | currentIndex: 0
+2021-10-23 12:57:52.589 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onStop | currentIndex: 0
+2021-10-23 12:57:52.593 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onSaveInstanceState
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji
+2021-10-23 12:58:26.677 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-10-23 12:58:26.678 5808-5808/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po obróceniu ekranu
+2021-10-23 13:04:24.166 6213-6213/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onPause | currentIndex: 3
+2021-10-23 13:04:24.172 6213-6213/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onStop | currentIndex: 3
+2021-10-23 13:04:24.174 6213-6213/com.example.zadanie1 D/MainActivity: Wywołana została metoda: onSaveInstanceState | currentIndexNext: 3
+2021-10-23 13:04:24.175 6213-6213/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onDestroy | currentIndex: 3
+2021-10-23 13:04:24.210 6213-6213/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onCreate | currentIndex: 0
+2021-10-23 13:04:24.269 6213-6213/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onStart
+2021-10-23 13:04:24.270 6213-6213/com.example.zadanie1 D/MainActivity: Wywołana została metoda cyklu życia: onResume

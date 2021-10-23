@@ -12,7 +12,7 @@
 
     <TextView
         android:id="@+id/question_text_view"
-        android:layout_width="277dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="30dp"
         android:paddingStart="30dp"
@@ -47,5 +47,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_next" />
+
+    <Button
+        android:id="@+id/prompt_button"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="40sp"
+        android:layout_height="wrap_content"
+        android:text="Podpowiedź" />
 
 </LinearLayout>
